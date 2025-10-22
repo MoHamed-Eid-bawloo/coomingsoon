@@ -83,7 +83,7 @@ const Index = () => {
   <div className="container mx-auto px-4 py-4 text-center text-sm text-muted-foreground">
     <p>
       Made by{" "}
-      <span className="font-semibold text-foreground">Muhamed Eid El.Sayed</span> &nbsp;|&nbsp;
+      <a link="https://www.linkedin.com/in/mohammad-eid12/" className="font-semibold text-foreground">Muhamed Eid El.Sayed</span> &nbsp;|&nbsp;
       All copyrights reserved to{" "}
       <span className="text-accent font-medium">Delta Coding Team</span>.
     </p>
