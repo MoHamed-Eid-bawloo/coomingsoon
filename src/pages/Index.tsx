@@ -78,18 +78,18 @@ const Index = () => {
         </div>
       </main>
       {/* Footer */}
+{/* Footer */}
 <footer className="absolute bottom-0 left-0 w-full z-10 bg-background/80 backdrop-blur-md border-t border-accent/30">
   <div className="container mx-auto px-4 py-4 text-center text-sm text-muted-foreground">
     <p>
-      © {new Date().getFullYear()}{" "}
+      Made by{" "}
       <span className="font-semibold text-foreground">Muhamed Eid El.Sayed</span> &nbsp;|&nbsp;
-      <span className="text-accent font-medium">Delta Security Coding Team</span>
-    </p>
-    <p className="text-xs mt-1 opacity-75">
-      Securing the future, one line of code at a time.
+      All copyrights reserved to{" "}
+      <span className="text-accent font-medium">Delta Coding Team</span>.
     </p>
   </div>
 </footer>
+
 
 
 
